@@ -9,6 +9,7 @@ If you find this repository helpful consider leaving a :star:
 - [About](#about)
 - [Table of Contents](#table-of-contents)
 - [Sorted by Time](#sorted-by-time)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -47,6 +48,9 @@ If you find this repository helpful consider leaving a :star:
 * (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
 * (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
 * (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+* (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning
+* (ICLR 2026) 
 
 ## 2025
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting \[[Paper](https://arxiv.org/pdf/2502.04737)\]\[[Code](https://github.com/lIcIIl/UMI)\]
