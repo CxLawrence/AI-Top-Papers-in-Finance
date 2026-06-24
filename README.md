@@ -43,20 +43,24 @@ If you find this repository helpful consider leaving a :star:
 [Back to top](#table-of-contents)
 
 ## 2026
-* (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]
+* (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]\[[Code](TBD)\]
 * (KDD 2026) FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785689)\]\[[Code](https://github.com/DVampire/FinWorld)\]
 * (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
 * (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
 * (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
 * (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
-* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning
-* (ICLR 2026) 
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Code](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]
+* (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]\[[Code](TBD)\]
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
+* (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://zenodo.org/records/18347844)\]
 
 ## 2025
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting \[[Paper](https://arxiv.org/pdf/2502.04737)\]\[[Code](https://github.com/lIcIIl/UMI)\]
 * (KDD 2025) Pre-training Time Series Models with Stock Data Customization \[[Paper](https://arxiv.org/abs/2506.16746)\]\[[Code](https://github.com/astudentuser/Pre-training-Time-Series-Models-with-Stock-Data-Customization)\]
 * (KDD 2025) Progressive Dependency Representation Learning for Stock Ranking in Uncertain Risk Contrasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3690624.3709189)\]\[[Code](https://github.com/xieyanzhe/PDU)\]
 * (KDD 2025) Multi-period Learning for Financial Time Series Forecasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3690624.3709422)\]\[[Code](https://github.com/Meteor-Stars/MLF)\]
+* (KDD 2025) TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3690624.3709234)\]\[[Code](https://zenodo.org/records/14542445)\]
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)\]\[[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)\]
 * (WWW 2025) MERA: Mixture of Experts with Retrieval-Augmented Representation for Modeling Diversified Stock Patterns \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715513)\]\[[Code](https://github.com/chenchen1104/MERA)\]
 * (ICASSP 2025) Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction \[[Paper](https://arxiv.org/abs/2410.03707)\]\[[Code](https://github.com/Ali-Meh619/SAMBA)\]
