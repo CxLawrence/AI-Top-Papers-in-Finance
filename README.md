@@ -41,6 +41,13 @@ If you find this repository helpful consider leaving a :star:
 
 [Back to top](#table-of-contents)
 
+## 2026
+* (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]
+* (KDD 2026) FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785689)\]\[[Code](https://github.com/DVampire/FinWorld)\]
+* (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
+* (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
+* (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+
 ## 2025
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting \[[Paper](https://arxiv.org/pdf/2502.04737)\]\[[Code](https://github.com/lIcIIl/UMI)\]
 * (KDD 2025) Pre-training Time Series Models with Stock Data Customization \[[Paper](https://arxiv.org/abs/2506.16746)\]\[[Code](https://github.com/astudentuser/Pre-training-Time-Series-Models-with-Stock-Data-Customization)\]
