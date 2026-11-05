@@ -1,8 +1,18 @@
 # About
 
-The sole purpose of this repository is to help me organize recent academic papers *with codes* related to _stock price prediction_, _quantitative trading_, _risk modeling_. This is a non-exhausting list, even though I'll try to keep it updated...
-Feel free to suggest decent papers via a PR.
+This repository aims to curate and organize **finance-related research papers from leading computer science conferences**, with a particular focus on studies that provide **publicly available code**.
+The collection covers a broad range of topics, including *stock price prediction*, *quantitative trading*, *portfolio management*, *asset pricing*, and *financial risk modeling*, with an emphasis on advances in artificial intelligence and machine learning.
+This is a non-exhaustive collection, primarily featuring papers from top-tier computer science conferences, and I will continue to update and expand it as new research becomes available. Given the limitations of my knowledge and time, some papers may be missing, and there may be occasional errors or inaccuracies.
+**Corrections, contributions, and suggestions are always welcome!** Feel free to recommend relevant papers or submit a pull request (PR).
 If you find this repository helpful consider leaving a :star:
+
+## Acknowledgements
+
+Special thanks to **Water King**, my cousin and brother at heart, for creating this repository and maintaining it through 2025. His dedication and contributions laid the foundation for this collection.
+
+As he has become busy with work and may no longer have time to update the repository, I decided to fork it and continue maintaining and expanding it as part of my own academic learning and research journey.
+
+Many thanks to Water King for his efforts and for sharing this valuable resource!
 
 # Table of Contents
 
