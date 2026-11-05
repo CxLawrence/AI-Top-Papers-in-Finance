@@ -53,6 +53,7 @@ Many thanks to Water King for his efforts and for sharing this valuable resource
 [Back to top](#table-of-contents)
 
 ## 2026
+* (ICDM 2026) CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets \[[Paper](https://arxiv.org/abs/2609.14205)\]\[[Code](https://github.com/FanBroWell/CAST)\]
 * (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]\[[Code](TBD)\]
 * (KDD 2026) FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785689)\]\[[Code](https://github.com/DVampire/FinWorld)\]
 * (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
@@ -191,7 +192,7 @@ Many thanks to Water King for his efforts and for sharing this valuable resource
 * (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
 * (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
 * (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://github.com/mlvl36667/cexdexarbitrageanalysis)\]
-
+* (ICDM 2026) CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets \[[Paper](https://arxiv.org/abs/2609.14205)\]\[[Code](https://github.com/FanBroWell/CAST)\]
 * (KDD 2024) MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading [[Paper](https://arxiv.org/pdf/2406.14537)][[Code](https://github.com/ZONG0004/MacroHFT)]
 * (WWW 2024) Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools [[Paper](https://arxiv.org/pdf/2311.10801)][[Code](https://github.com/DVampire/EarnMore)]
 * (KDD 2023) Efficient Continuous Space Policy Optimization for High-frequency Trading [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599813)][[Code](https://github.com/finint/DRPO)]
@@ -217,7 +218,7 @@ Many thanks to Water King for his efforts and for sharing this valuable resource
 
 * (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
 * (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
-
+* (ICDM 2026) CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets \[[Paper](https://arxiv.org/abs/2609.14205)\]\[[Code](https://github.com/FanBroWell/CAST)\]
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)][[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)]
 * (CIKM 2022) DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities [[Paper](https://www.semanticscholar.org/paper/DeepScalper%3A-A-Risk-Aware-Reinforcement-Learning-to-Sun-He/d57743b30ca50b1480a72ab41a0564f20f183e92)][[Code](https://github.com/TradeMaster-NTU/TradeMaster)]
 * (2022) Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading [[Paper](https://arxiv.org/abs/2206.05910)][[Code](https://github.com/Tsedao/Safe-FinRL)]
@@ -226,7 +227,7 @@ Many thanks to Water King for his efforts and for sharing this valuable resource
 ## Volatility & Risk Forecasting
 
 * (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
-
+* (ICDM 2026) CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets \[[Paper](https://arxiv.org/abs/2609.14205)\]\[[Code](https://github.com/FanBroWell/CAST)\]
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)][[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)]
 * (ACM MM 2020) Multimodal Multi-Task Financial Risk Forecasting [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413752)][[Code](https://github.com/midas-research/multimodal-financial-forecasting)]
 * (UAI 2021) Modeling Financial Uncertainty with Multivariate Temporal Entropy-based Curriculums [[Paper](https://www.auai.org/uai2021/pdf/uai2021.638.preliminary.pdf)][[Code](https://github.com/midas-research/finclass-uai)]
