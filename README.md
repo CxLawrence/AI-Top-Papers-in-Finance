@@ -165,7 +165,7 @@ Many thanks to Water King for his efforts and for sharing this valuable resource
 ## Stock Price Prediction
 
 * (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
-
+* (KDD 2025) TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model [[Paper](https://dl.acm.org/doi/pdf/10.1145/3690624.3709234)][[Code](https://github.com/waylonli/TSPRank-KDD2025)]
 * (ICDE 2023) Relational Temporal Graph Convolutional Network for Ranking-based Stock Prediction \[[Paper](https://ieeexplore.ieee.org/document/10184655)\]\[[Code](https://github.com/zhengzetao/RTGCN)\]
 * (TKDE 2023) Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks \[[Paper](https://www.semanticscholar.org/paper/Stock-Movement-Prediction-Based-on-Bi-Typed-Market-Zhao-Du/dbaf9ff32a00161d777f6f5cd50e4028d733bd0d)\]\[[Code](https://github.com/trytodoit227/DANSMP)\]
 * (KDD 2023) DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)\]\[[Code](https://github.com/SJTU-Quant/qlib)\]
