@@ -1,9 +1,13 @@
 # About
 
 This repository aims to curate and organize **finance-related research papers from leading computer science conferences**, with a particular focus on studies that provide **publicly available code**.
+
 The collection covers a broad range of topics, including *stock price prediction*, *quantitative trading*, *portfolio management*, *asset pricing*, and *financial risk modeling*, with an emphasis on advances in artificial intelligence and machine learning.
+
 This is a non-exhaustive collection, primarily featuring papers from top-tier computer science conferences, and I will continue to update and expand it as new research becomes available. Given the limitations of my knowledge and time, some papers may be missing, and there may be occasional errors or inaccuracies.
+
 **Corrections, contributions, and suggestions are always welcome!** Feel free to recommend relevant papers or submit a pull request (PR).
+
 If you find this repository helpful consider leaving a :star:
 
 ## Acknowledgements
