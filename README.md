@@ -8,7 +8,7 @@ If you find this repository helpful consider leaving a :star:
 
 ## Acknowledgements
 
-Special thanks to **Water King**, my cousin and brother at heart, for creating this repository and maintaining it through 2025. His dedication and contributions laid the foundation for this collection.
+Special thanks to **[Water King (@marcuswang6)](https://github.com/marcuswang6)**, my cousin and good friend, for creating this repository and maintaining it through 2025. His dedication and contributions laid the foundation for this collection.
 
 As he has become busy with work and may no longer have time to update the repository, I decided to fork it and continue maintaining and expanding it as part of my own academic learning and research journey.
 
