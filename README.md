@@ -49,11 +49,11 @@ If you find this repository helpful consider leaving a :star:
 * (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
 * (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
 * (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
-* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Code](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Supplementary](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]\[[Code](TBD)\]
 * (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
-* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]\[[Code](TBD)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
 * (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
-* (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://zenodo.org/records/18347844)\]
+* (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://github.com/mlvl36667/cexdexarbitrageanalysis)\]
 
 ## 2025
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting \[[Paper](https://arxiv.org/pdf/2502.04737)\]\[[Code](https://github.com/lIcIIl/UMI)\]
@@ -154,6 +154,8 @@ If you find this repository helpful consider leaving a :star:
 [Back to top](#table-of-contents)
 ## Stock Price Prediction
 
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
+
 * (ICDE 2023) Relational Temporal Graph Convolutional Network for Ranking-based Stock Prediction \[[Paper](https://ieeexplore.ieee.org/document/10184655)\]\[[Code](https://github.com/zhengzetao/RTGCN)\]
 * (TKDE 2023) Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks \[[Paper](https://www.semanticscholar.org/paper/Stock-Movement-Prediction-Based-on-Bi-Typed-Market-Zhao-Du/dbaf9ff32a00161d777f6f5cd50e4028d733bd0d)\]\[[Code](https://github.com/trytodoit227/DANSMP)\]
 * (KDD 2023) DoubleAdapt: A Meta-learning Approach to Incremental Learning for Stock Trend Forecasting \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599315)\]\[[Code](https://github.com/SJTU-Quant/qlib)\]
@@ -174,6 +176,12 @@ If you find this repository helpful consider leaving a :star:
 
 ## Stock Trading
 
+* (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
+* (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
+* (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
+* (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://github.com/mlvl36667/cexdexarbitrageanalysis)\]
+
 * (KDD 2024) MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading [[Paper](https://arxiv.org/pdf/2406.14537)][[Code](https://github.com/ZONG0004/MacroHFT)]
 * (WWW 2024) Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools [[Paper](https://arxiv.org/pdf/2311.10801)][[Code](https://github.com/DVampire/EarnMore)]
 * (KDD 2023) Efficient Continuous Space Policy Optimization for High-frequency Trading [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599813)][[Code](https://github.com/finint/DRPO)]
@@ -186,6 +194,10 @@ If you find this repository helpful consider leaving a :star:
 
 ## Asset Pricing
 
+* (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Supplementary](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]\[[Code](TBD)\]
+* (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
+
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting [[Paper](https://arxiv.org/pdf/2502.04737)][[Code](https://github.com/lIcIIl/UMI)]
 * (CIKM 2021) Attention Based Dynamic Graph Learning Framework for Asset Pricing [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482413)][[Code](https://github.com/Ajim63/Attention-Based-Dynamic-Graph-Learning-Framework-for-Asset-Pricing)]
 * (2020) Open Source Cross-Sectional Asset Pricing [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3604626)][[Code](https://github.com/Sakura-Fire-Capital/CrossSection)]
@@ -193,12 +205,17 @@ If you find this repository helpful consider leaving a :star:
 
 ## Risk Modeling
 
+* (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
+
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)][[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)]
 * (CIKM 2022) DeepScalper: A Risk-Aware Reinforcement Learning Framework to Capture Fleeting Intraday Trading Opportunities [[Paper](https://www.semanticscholar.org/paper/DeepScalper%3A-A-Risk-Aware-Reinforcement-Learning-to-Sun-He/d57743b30ca50b1480a72ab41a0564f20f183e92)][[Code](https://github.com/TradeMaster-NTU/TradeMaster)]
 * (2022) Safe-FinRL: A Low Bias and Variance Deep Reinforcement Learning Implementation for High-Freq Stock Trading [[Paper](https://arxiv.org/abs/2206.05910)][[Code](https://github.com/Tsedao/Safe-FinRL)]
 
 
 ## Volatility & Risk Forecasting
+
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
 
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)][[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)]
 * (ACM MM 2020) Multimodal Multi-Task Financial Risk Forecasting [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413752)][[Code](https://github.com/midas-research/multimodal-financial-forecasting)]
@@ -217,6 +234,8 @@ If you find this repository helpful consider leaving a :star:
 
 ## Graph Neural Networks
 
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
+
 * (ICDE 2023) Relational Temporal Graph Convolutional Network for Ranking-based Stock Prediction \[[Paper](https://ieeexplore.ieee.org/document/10184655)\]\[[Code](https://github.com/zhengzetao/RTGCN)\]
 * (TKDE 2023) Stock Movement Prediction Based on Bi-typed and Hybrid-relational Market Knowledge Graph via Dual Attention Networks \[[Paper](https://www.semanticscholar.org/paper/Stock-Movement-Prediction-Based-on-Bi-Typed-Market-Zhao-Du/dbaf9ff32a00161d777f6f5cd50e4028d733bd0d)\]\[[Code](https://github.com/trytodoit227/DANSMP)\]
 * (CIKM 2022) Temporal and Heterogeneous Graph Neural Network for Financial Time Series Prediction \[[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557089)\]\[[Code](https://github.com/finint/THGNN)\]
@@ -228,11 +247,20 @@ If you find this repository helpful consider leaving a :star:
 
 ## Large Language Models
 
+* (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]\[[Code](TBD)\]
+* (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
+* (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Supplementary](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]\[[Code](TBD)\]
+* (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
+
 * (2023) FinGPT: Democratizing Internet-scale Data for Financial Large Language Models \[[Paper](https://arxiv.org/abs/2307.10485)\]\[[Code](https://github.com/AI4Finance-Foundation/FinGPT)\]
 * (WWW 2024) Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models \[[Paper](https://arxiv.org/abs/2402.03659)\]\[[Code](https://github.com/koa-fin/sep)\]
 * (COLING 2024) AlphaFin: Benchmarking Financial Analysis with Retrieval Augmented Stock-Chain Framework \[[Paper](https://arxiv.org/pdf/2403.12582)\]\[[Code](https://github.com/AlphaFin-proj/AlphaFin)\]
 
 ## Other Models (SSM/Mamba, MLP, MoE, Foundation, Generative)
+
+* (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
 
 * (ICASSP 2025) Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction \[[Paper](https://arxiv.org/abs/2410.03707)\]\[[Code](https://github.com/Ali-Meh619/SAMBA)\]
 * (AAAI 2024) StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting \[[Paper](https://github.com/SJTU-Quant/StockMixer)\]\[[Code](https://github.com/SJTU-Quant/StockMixer)\]
@@ -246,6 +274,10 @@ If you find this repository helpful consider leaving a :star:
 [Back to top](#table-of-contents)
 
 ## NLP-based Methods
+
+* (KDD 2026) Chat2Trade: Automating Financial RFQ Parsing with Fine-Tuned LLMs \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3783923)\]\[[Code](TBD)\]
+* (KDD 2026) Can LLM-based Financial Investing Strategies Outperform the Market in Long Run? \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785702)\]\[[Code](https://github.com/waylonli/FINSABER)\]
+* (ICLR 2026) Trade in minutes! rationality-driven agentic system for quantitative financial trading \[[Paper](https://arxiv.org/pdf/2510.04787?)\]\[[Code](https://github.com/ReverseZoom2151/TiMi)\]
 
 * (COLING 2024) AlphaFin: Benchmarking Financial Analysis with Retrieval Augmented Stock-Chain Framework \[[Paper](https://arxiv.org/pdf/2403.12582)\]\[[Code](https://github.com/AlphaFin-proj/AlphaFin)\]
 * (WWW 2024) Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models \[[Paper](https://arxiv.org/abs/2402.03659)\]\[[Code](https://github.com/koa-fin/sep)\]
@@ -262,6 +294,8 @@ If you find this repository helpful consider leaving a :star:
 * (ACL 2018) Stock Movement Prediction from Tweets and Historical Prices \[[Paper](http://aclweb.org/anthology/P18-1183)\]\[[Code](https://github.com/yumoxu/stocknet-code)\]
 
 ## Graph Learning
+
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
 
 * (ICASSP 2025) Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction \[[Paper](https://arxiv.org/abs/2410.03707)\]\[[Code](https://github.com/Ali-Meh619/SAMBA)\]
 * (ICDE 2023) Relational Temporal Graph Convolutional Network for Ranking-based Stock Prediction \[[Paper](https://ieeexplore.ieee.org/document/10184655)\]\[[Code](https://github.com/zhengzetao/RTGCN)\]
@@ -282,6 +316,9 @@ If you find this repository helpful consider leaving a :star:
 
 
 ## Reinforcement-learning
+
+* (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Supplementary](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]\[[Code](TBD)\]
 
 * (NeurIPS 2024) ROIDICE: Offline Return on Investment Maximization for Efficient Decision Making \[[Paper](https://openreview.net/pdf?id=6Kg26g1quR)\]\[[Code](https://github.com/ku-dmlab/ROIDICE)\]
 * (2023) MOPO-LSI: A User Guide \[[Paper](https://arxiv.org/abs/2307.01719)\]\[[Code](https://github.com/irecsys/MOPO-LSI)\]
@@ -318,17 +355,29 @@ If you find this repository helpful consider leaving a :star:
 
 ## Factor Modeling
 
+* (ICLR 2026) AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration \[[Paper](https://arxiv.org/pdf/2509.25055)\]\[[Code](https://github.com/BerkinChen/AlphaSAGE)\]
+* (ICLR 2026) AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic Reinforcement Learning \[[Paper](https://openreview.net/forum?id=lNmZrawUMu)\]\[[Supplementary](https://openreview.net/attachment?id=lNmZrawUMu&name=supplementary_material)\]\[[Code](TBD)\]
+* (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
+
 * (KDD 2025) Learning Universal Multi-level Market Irrationality Factors to Improve Stock Return Forecasting \[[Paper](https://arxiv.org/pdf/2502.04737)\]\[[Code](https://github.com/lIcIIl/UMI)\]
 * (WWW 2025) HRFT: Mining High-Frequency Risk Factor Collections End-to-End via Transformer \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715235)\]\[[Code](https://github.com/wencyxu/IRF-LLM-accepted-at-WWW25-)\]
 * (AAAI 2022) FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369/20128)\]\[[Code](https://github.com/UePG-21/facvae)\]
 
 ## Uncertainty & Probabilistic Modeling
 
+* (KDD 2026) Bayesian Robust Financial Trading with Adversarial Synthetic Market Data \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3780175)\]\[[Code](https://github.com/XiaHaochong98/Bayesian-Robust-Financial-Trading-with-Adversarial-Synthetic-Market-Data)\]
+* (ICLR 2026) STABLE: Shift-Tolerant Allocation via Black-Litterman Using Conditional Diffusion Estimates \[[Paper](https://openreview.net/forum?id=VltZQpfarw)\]\[[Code](TBD)\]
+* (WWW 2026)  Delay-Aware Graph Neural Stochastic Differential Equations for Financial Time Series Modeling and Forecasting \[[Paper](https://dl.acm.org/doi/10.1145/3774904.3792829)\]\[[Code](https://github.com/ceke233/DGNSDE)\]
+* (WWW 2026)  Analysis of CEX-DEX Arbitrage Opportunities with Hidden Markov Models \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3774904.3792185)\]\[[Code](https://github.com/mlvl36667/cexdexarbitrageanalysis)\]
+
 * (2023) Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction \[[Paper](https://arxiv.org/abs/2309.00073)\]\[[Code](https://github.com/koa-fin/dva)\]
 * (AAAI 2022) FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20369/20128)\]\[[Code](https://github.com/UePG-21/facvae)\]
 * (UAI 2021) Modeling Financial Uncertainty with Multivariate Temporal Entropy-based Curriculums \[[Paper](https://www.auai.org/uai2021/pdf/uai2021.638.preliminary.pdf)\]\[[Code](https://github.com/midas-research/finclass-uai)\]
 
 # Datasets & Benchmarks
+
+* (KDD 2026) FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment \[[Paper](https://dl.acm.org/doi/pdf/10.1145/3770854.3785689)\]\[[Code](https://github.com/DVampire/FinWorld)\]
+* (ICLR 2026) AlphaBench: Benchmarking Large Language Models in Formulaic Alpha Factor Mining \[[Paper](https://openreview.net/pdf?id=d97Q8r7ZKZ)\]\[[Code](https://github.com/CityU-MLO/AlphaBench)\]
 
 * (KDD 2024) FNSPID: A Comprehensive Financial News Dataset in Time Series \[[Paper](https://arxiv.org/abs/2402.06698)\]\[[Code](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)\]
 * (NeurIPS workshop 2022) FinRL-Meta: Market Environments and Benchmarks for Data-Driven Financial Reinforcement Learning \[[Paper](https://openreview.net/pdf?id=LkAFwrqdRY6)\]\[[Code](https://github.com/AI4Finance-Foundation/FinRL-Meta)\]
